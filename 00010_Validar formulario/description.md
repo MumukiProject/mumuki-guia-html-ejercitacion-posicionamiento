@@ -1,0 +1,1 @@
+Al formulario anterior, agregar el atributo `required` a cada atributo. Hacer que aparezca sobre cada `input` [este ícono](https://fontawesome.com/icons/check?style=solid) a la derecha cuando dicho `input` está en el estado `valid`.
