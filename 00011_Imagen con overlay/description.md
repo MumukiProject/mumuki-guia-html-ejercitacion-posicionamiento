@@ -1,5 +1,3 @@
-Poner una imagen con un overlay (es decir, un fondo semitransparente, usando `rgba`) y texto encima. Por ejemplo:
-
 Inspirandote en esta imagen...
 
 ![](https://i.ibb.co/Xbwrc73/Screen-Shot-2020-09-11-at-14-18-10.png)
