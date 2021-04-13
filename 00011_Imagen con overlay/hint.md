@@ -1,0 +1,1 @@
+Para más ideas, pueden usar los ejemplo de la [siguiente página](https://tympanus.net/Development/HoverEffectIdeas/index.html) en el estado `hover`: NICE LYLY, WARM OSCAR, SWEET MARLEY, GLOWING RUBY, CHARMING ROXY, WILD ROMEO, STRANGE DEXTER, FREE SARAH, SILLY CHICO, FAITHFUL MILO, PASSIONATE JULIA, DARK KIRA, LONELY STEVE, FUNNY MING.
