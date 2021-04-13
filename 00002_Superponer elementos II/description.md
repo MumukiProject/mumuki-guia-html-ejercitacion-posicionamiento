@@ -8,4 +8,4 @@ Para esto, utilizá las siguientes medidas:
 - **Cuadrado rojo:** 60px x 60px
 - **Cuadrado verde:** 30px x 30px
 
-> Para finalizar, cargá el repositorio con los corrrespondientes archivos.
+> Al finalizar, cargá el repositorio con los corrrespondientes archivos.
