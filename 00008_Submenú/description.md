@@ -1,8 +1,8 @@
-Al ítem Submenú del ejercicio anterior:
+Aplicá los cambios necesarios sobre el ítem `Submenú` del ejercicio anterior de forma tal que:
 
-- Darle la clase "sub-menu" y agregarle como elemento hijo una nueva lista con la clase "sub-menu-oculto"
-- La lista "sub-menu-oculto" debe estar oculta y debe tener 5 ítems
-- Al hacer hover sobre la lista "sub-menu" debe mostrarse la lista "sub-menu-oculto"
+* tenga la clase “sub-menu” con un elemento hijo que sea una nueva lista con la clase "sub-menu-oculto";
+* la lista "sub-menu-oculto" debe estar oculta y debe tener 5 ítems;
+* al hacer `hover` sobre la lista "sub-menu" debe mostrarse la lista "sub-menu-oculto".
 
 Ejemplo:
 
