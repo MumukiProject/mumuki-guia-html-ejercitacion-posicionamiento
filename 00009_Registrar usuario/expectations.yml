@@ -2,4 +2,4 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: input.NombreDeUsuario
-  inspection: DeclaresAttribute:placeholder='&#xf007; Nombre de Usuario'
+  inspection: Declares:placeholder='&#xf007; Nombre de Usuario'
