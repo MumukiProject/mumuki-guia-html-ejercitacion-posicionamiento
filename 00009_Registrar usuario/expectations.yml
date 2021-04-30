@@ -1,5 +1,0 @@
----
-expectations:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: input.NombreDeUsuario
-  inspection: Declares:placeholder='&#xf007; Nombre de Usuario'
