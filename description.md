@@ -1,1 +1,1 @@
-TODO
+_El orden de los factores no altera el producto_. Sin embargo, el orden de los elementos si altera nuestros diseños. Posicionémonos correctamente y comencemos esta lección. :wink:
