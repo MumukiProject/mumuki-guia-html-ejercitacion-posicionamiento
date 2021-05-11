@@ -14,4 +14,4 @@ expectations:
   inspection: DeclaresStyle:display:block
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:.sub-menu-oculto li
-  inspection: 'DeclaresStyle:display: block'
+  inspection: DeclaresStyle:display:block
