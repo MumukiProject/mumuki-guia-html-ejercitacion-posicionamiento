@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:li
+  inspection: DeclaresStyle:display:inline
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:ul
+  inspection: DeclaresStyle:text-align:right
