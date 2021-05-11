@@ -1,0 +1,17 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.menu li
+  inspection: DeclaresStyle:display:inline-block
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:ul
+  inspection: DeclaresStyle:white-space:nowrap
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.sub-menu-oculto
+  inspection: DeclaresStyle:display:none
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.sub-menu:hover .sub-menu-oculto
+  inspection: DeclaresStyle:display:block
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.sub-menu-oculto li
+  inspection: 'DeclaresStyle:display: block'
