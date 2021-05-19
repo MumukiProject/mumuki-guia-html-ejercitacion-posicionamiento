@@ -1,14 +1,10 @@
 /*<output#*//*#output>*/
-/*<tests#*/it ("El sub-menu-oculto en un principio está oculto",() => {
+/*<tests#*/it ("El submenu oculto en un principio está oculto",() => {
   document.getElementsByClassName('sub-menu-oculto')[0].should.have.style("display", "none");
 })
 
-it ("zaraza",() => {
+it ("Al hacer hover el submenu oculto se despliega hacia abajo",() => {
   document.querySelectorAll('ul[class="sub-menu-oculto"] li')[0].should.have.style("display", "block");
-})
-
-it ("zaraza1",() => {
-  document.querySelectorAll('ul[class="sub-menu-oculto"] li').should.exist;
 })
 /*#tests>*/
 /*<options#*/output_ignore_scripts: true
