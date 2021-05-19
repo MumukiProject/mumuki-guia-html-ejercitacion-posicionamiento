@@ -1,4 +1,7 @@
 /*<output#*//*#output>*/
-/*<tests#*//*#tests>*/
+/*<tests#*/it ("el header está en el margen derecho del navegador",() => {
+  document.querySelector('sub-menu-oculto').should.have.style("display", "none");
+})
+/*#tests>*/
 /*<options#*/output_ignore_scripts: true
 output_ignore_styles: true/*#options>*/
