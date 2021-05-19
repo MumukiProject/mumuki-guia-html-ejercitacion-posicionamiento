@@ -1,6 +1,10 @@
 /*<output#*//*#output>*/
-/*<tests#*/it (" ",() => {
+/*<tests#*/it ("El sub-menu-oculto en un principio está oculto",() => {
   document.getElementsByClassName('sub-menu-oculto')[0].should.have.style("display", "none");
+})
+
+it ("zaraza",() => {
+  document.getElementsByClassName('sub-menu-oculto li')[0].should.have.style("display", "block");
 })
 /*#tests>*/
 /*<options#*/output_ignore_scripts: true
